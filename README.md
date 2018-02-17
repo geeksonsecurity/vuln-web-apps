@@ -22,3 +22,4 @@
 |OWASP NodeGoat                 |http://nodegoat.herokuapp.com/           |Node.js                                |unknown
 |OWASP Juice Shop               |https://juice-shop.herokuapp.com/        |Node.js                                |unknown
 |Cyclone Transfers              |http://cyclone.ciphertechs.com/          |Ruby on Rails                          |unknown
+|Web Scanner Test Site          |http://webscantest.com/                  |Apache, PHP                            |unknown
