@@ -17,8 +17,9 @@
 |OWASP Vicnum                   |http://vicnum.ciphertechs.com/           |Apache, PHP, Perl                      |unknown
 |Rapid7 Hackazon                |http://hackazon.webscantest.com/         |Apache, PHP, Ajax, JSONm XML, Gwt, AMF |admin:admin:123456
 |Rapid7 WebScanTest             |http://webscantest.com/                  |Apache, PHP                            |user:testuser:testpass
-|Testsparker ASP.NET            |http://aspnet.testsparker.com/           |ISS, ASP.NET                           |unknown
-|Testsparker PHP                |http://php.testsparker.com/              |Apache, PHP                            |unknown
+|Testsparker ASP.NET            |http://aspnet.testsparker.com/           |Windows, IIS, ASP.NET, Microsoft SQL Server |unknown:alan@turing.com:theturingtest
+|Testsparker PHP                |http://php.testsparker.com/              |Windows, Apache, PHP, MySQL                            |unknown:admin:admin123456
+|Testsparker SPA (Angular)      |http://angular.testsparker.com/          |Ubuntu, Apache, PHP, Angular 5, MySQL  |unknown
 
 
 
