@@ -19,7 +19,7 @@
 |Rapid7 WebScanTest             |http://webscantest.com/                  |Apache, PHP                            |user:testuser:testpass
 |Testsparker ASP.NET            |http://aspnet.testsparker.com/           |Windows, IIS, ASP.NET, Microsoft SQL Server |unknown:alan@turing.com:theturingtest
 |Testsparker PHP                |http://php.testsparker.com/              |Windows, Apache, PHP, MySQL                            |unknown:admin:admin123456
-|Testsparker SPA (Angular)      |http://angular.testsparker.com/          |Ubuntu, Apache, PHP, Angular 5, MySQL  |unknown:admin:admin123456
+|Testsparker SPA (Angular)      |http://angular.testsparker.com/          |Ubuntu, Apache, PHP, Angular 5, MySQL  |unknown
 
 
 
