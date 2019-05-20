@@ -11,7 +11,9 @@
 |Google Gruyere                 |http://google-gruyere.appspot.com/start  |Python, Google App Engine              |unknown
 |HackYourselfFirst              |http://hack-yourself-first.com/          |IIS, ASP.NET                           |unknown
 |HP freebank                    |http://zero.webappsecurity.com/          |Apache Tomcat                          |unknown
-|IBM altoromutual               |http://demo.testfire.net/                |ISS, ASP.NET                           |unknown
+|IBM Altoro Mutual              |http://demo.testfire.net/                |ISS, ASP.NET                           |user:jsmith:Demo1234
+|IBM AltoroJ Mutual             |http://www.altoromutual.com:8080/        |Tomcat, Java 3.1                          |user:jsmith:Demo1234
+|IBM Hard Altoro Mutual         |http://hard.altoromutual.com/            |Tomcat, Java 3.1, MegaScript                           |user:jsmith:Demo1234
 |OWASP Juice Shop               |https://juice-shop.herokuapp.com/        |Node.js                                |unknown
 |OWASP NodeGoat                 |http://nodegoat.herokuapp.com/           |Node.js                                |unknown
 |OWASP Vicnum                   |http://vicnum.ciphertechs.com/           |Apache, PHP, Perl                      |unknown
