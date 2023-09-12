@@ -6,6 +6,7 @@
 |Acunetix Acublog               |http://testaspnet.vulnweb.com/           |IIS, ASP.NET, Microsoft SQL Server     |unknown
 |Acunetix SecurityTweets        |http://testhtml5.vulnweb.com/            |nginx, Python, Flask, CouchDB          |admin:admin:1234
 |Acunetix Acuart                |http://testphp.vulnweb.com/              |Apache, PHP, MySQL                     |unknown
+|Broken Crystals                |https://brokencrystals.com/              |Node.js                                |admin:admin
 |bWAPP                          |http://bwapp.ywnxs.com/                  |Ubuntu, Nginx, PHP                     |user: bee:bug
 |Cenzic crackmebank             |http://crackme.cenzic.com/               |CentOS, Apache, PHP                    |unknown
 |Firing Range                   |https://public-firing-range.appspot.com/ |Google App Engine                      |unknown
