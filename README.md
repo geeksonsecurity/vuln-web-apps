@@ -9,6 +9,7 @@
 |Broken Crystals                |https://brokencrystals.com/              |Node.js                                |admin:admin
 |bWAPP                          |http://bwapp.ywnxs.com/                  |Ubuntu, Nginx, PHP                     |user: bee:bug
 |Cenzic crackmebank             |http://crackme.cenzic.com/               |CentOS, Apache, PHP                    |unknown
+|EyalSec vulnerable-javascript  |https://eyalsec.github.io/vulnerable-javascript/ |GitHub Pages, JavaScript (static, no backend) |none (no login)
 |Firing Range                   |https://public-firing-range.appspot.com/ |Google App Engine                      |unknown
 |PortSwigger Gin & Juice Shop   |https://ginandjuice.shop/                |AWS                                    |unknown
 |Google Gruyere                 |http://google-gruyere.appspot.com/start  |Python, Google App Engine              |unknown
